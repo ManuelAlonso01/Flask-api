@@ -1,4 +1,4 @@
-# Flask-api
+# UsersApi
 
 <img width="291" height="353" alt="image" src="https://github.com/user-attachments/assets/c4ee7683-eac1-4830-b435-f46d54ffbbe0" />
 
